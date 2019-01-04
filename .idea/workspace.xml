@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1aa7a38c-61d1-457a-905c-3fd16368d964" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/ryanliu/task5/AddWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/ryanliu/task5/Add_Do_while.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task5/AddWhile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/ryanliu/task5/AddWhile.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -26,24 +28,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="12" />
+          <entry key="java" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="11" />
+          <entry key="JAVA" value="12" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="java" value="3449" />
+          <entry key="java" value="3545" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3380" />
+          <entry key="JAVA" value="3476" />
           <entry key="PLAIN_TEXT" value="70" />
         </counts>
       </usages-collector>
@@ -69,11 +71,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/cn/ryanliu/task5/AddWhile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+            <state relative-caret-position="351">
+              <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/ryanliu/task5/Add_Do_while.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -106,6 +117,7 @@
         <option value="$PROJECT_DIR$/src/main/java/cn/ryanliu/task5/BuySapling.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/ryanliu/task5/BuySaplingExtend.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/ryanliu/task5/AddWhile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/ryanliu/task5/Add_Do_while.java" />
       </list>
     </option>
   </component>
@@ -182,7 +194,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546593532543" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546593724357" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
@@ -199,9 +211,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AddWhile">
+  <component name="RunManager" selected="Application.Add_Do_while">
     <configuration name="AddWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.ryanliu.task5.AddWhile" />
+      <module name="JavaTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.ryanliu.task5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Add_Do_while" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.ryanliu.task5.Add_Do_while" />
       <module name="JavaTest" />
       <extension name="coverage">
         <pattern>
@@ -239,19 +264,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComputerPriceIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.ryanliu.task4.ComputerPriceIf" />
-      <module name="JavaTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.ryanliu.task4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ComputerPriceSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.ryanliu.task4.ComputerPriceSwitch" />
       <module name="JavaTest" />
@@ -266,19 +278,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ComputerPriceIf" />
       <item itemvalue="Application.ComputerPriceSwitch" />
       <item itemvalue="Application.BuySapling" />
       <item itemvalue="Application.BuySaplingExtend" />
       <item itemvalue="Application.AddWhile" />
+      <item itemvalue="Application.Add_Do_while" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Add_Do_while" />
         <item itemvalue="Application.AddWhile" />
         <item itemvalue="Application.BuySaplingExtend" />
         <item itemvalue="Application.BuySapling" />
         <item itemvalue="Application.ComputerPriceSwitch" />
-        <item itemvalue="Application.ComputerPriceIf" />
       </list>
     </recent_temporary>
   </component>
@@ -295,12 +307,12 @@
       <workItem from="1546482447088" duration="2590000" />
       <workItem from="1546497361196" duration="1270000" />
       <workItem from="1546577337298" duration="1692000" />
-      <workItem from="1546579131013" duration="9923000" />
+      <workItem from="1546579131013" duration="10302000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15475000" />
+    <option name="totallyTimeSpent" value="15854000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -432,8 +444,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/ryanliu/task5/AddWhile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        <state relative-caret-position="351">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/ryanliu/task5/Add_Do_while.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
         </state>
       </provider>
     </entry>

@@ -39,7 +39,7 @@ public class BuySaplingExtend {
                 }
             }
         }
-        if (f=false){
+        if (f==false){
             System.out.println("您输入的数据无法得到合理的方案");
         }
     }

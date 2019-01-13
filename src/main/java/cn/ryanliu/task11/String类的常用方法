@@ -1,0 +1,64 @@
+String类的常用方法:
+
+1.获取字符串的长度
+    调用length()方法获得字符串的长度,语法为:字符串名.length();
+如:
+    String str="Hello world"
+    int num=str.length();
+
+2.字符串比较:
+    在比较数字时常用运算符"=="来比较是否相等,但是对于字符串来说"=="只能判断两个字符串是否为同一个对象,不能判断两个字符串所包含的内容是否相同.
+    在Java中字符串有两种比较方式,
+    1.一种是equals()方法比较两个字符串内容是否相同,返回值为布尔值;
+        (1).boolean equals(String str):比较当前字符串内容是否与参数字符串sre内容相同.
+        (2).boolen equalsIgnoreCase(String str):与euqals()方法相同,并在比较时忽略字符串大小写
+    2.一种是compareTo()方法按字典顺序比较两个字符串的大小,返回值为整数.
+        (3)int compareTo(String str):按字典顺序与参数指定的字符串比较大小,如果两个字符串相同则返回0;
+           如果当前的字符串对象大于参数字符串则返回正值,小于则返回负值,返回值为比较的两个字符串从左起到第一对不相同字符间的差距
+        (4)int compareToIgnoreCase(String str):与compareTo()方法相同,并在比较是忽略字符串大小
+如:
+    String str1="team";
+    String str2="dream"
+    System.out.println(str1.equals(str2));                              输出结果为:  //fales
+    System.out.println(str1.equalsIgnoreCase("TEAM"));                  输出结果为:  //true
+    System.out.println(str1.compareTo(str2));                           输出结果为:  //16
+    System.out.println(str1.compareToIgnoreCase("DREAM"));              输出结果为:  //0
+
+3.字符串连接:
+    (1)用字符串链接操作符"+"将两个字符串连接起来,格式为:
+        字符串1+字符串2;
+如:
+    String str1="Welcome to"
+    String str2= str1+"Java";               //输出的结果为: "Welcome to Java"
+    (2)用concat()方法连接两个字符串,格式为:
+        字符串1.concat(字符串2);
+如:
+    String str1="Hello";
+    String str2="everyone"
+    String str3=str1.concat(str2);          //输出结果为:"Helloeveyone"
+
+4.字符串截取:
+    (1)String substring(int beginindex):截取当前字符串从beginindex 处的字符开始直到最后的子串
+    (2)String substring(int beginindex,int endindex):截取当前字符串从beginindex处开始,到endindex处结束,但不包括endindex处对应的字符
+如:
+    String str="青青子衿,悠悠我心";
+    String substr1=str.substring(5);      //输出为:"悠悠我心"
+    String substr2=str.substring(2,7);    //输出为:"子衿,悠悠"
+
+5.字符串查询:
+    (1) int indexOf(String str):返回子串str在当前字符串中首次出现的位置,若没有查找到字符串str,则该方法的返回值为-1.
+    (2) int lastIndexOf(String str):返回子串str在当前字符串中最后出现的位置,若没有查找到字符串str,该方法返回值为-1.
+如:
+    String str="青青子衿,悠悠我心";
+    int index1=str.indexOf("青");            //返回值为 0
+    int index2=str.lastIndexOf("悠")         //返回值为 6
+    int index3=str.indexOf("春")             //返回值为 -1
+
+6.字符串大小写转换:
+    (1)String toUppetCase(String str):将字符串中的全部字符转换为大写
+    (2)String toLowerCase(String str):将字符串中的全部字符转换为小写
+如:
+    String str1="java";
+    String str2="JSP";
+    String strUp=str1.toUpperCase();        //输出为  "JAVA"
+    String strLo=str2.toLowerCase();        //输出为  "jsp"

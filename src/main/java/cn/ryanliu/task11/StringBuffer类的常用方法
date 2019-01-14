@@ -1,0 +1,23 @@
+StringBuffer类的常用方法如下:
+    1.字符追加
+    方法名: StringBuffer append(String str)
+    功能:将指定字符串str连接到StringBuffer对象的内容后面,并返回连接后的StringBuffer对象
+
+    2.插入字符
+    方法名:StringBuffer insert(int index,String str)
+    功能:将指定字符串str连接插入到Stringbuffer对象的index索引处
+
+    3.删除字符
+    方法名:StringBuffer delete(int start,int end)
+    功能:删除该StringBuffer对象从start索引处开始到end-1索引处结束的字符内容
+
+    4.反转字符
+    方法名:StringBuffer reverse()
+    功能:反转该StringBuffer对象的字符串值
+
+    5,转换字符串
+    方法名:String toString()
+    功能:创建一个与该StringBuffer对象内容相同的String对象
+
+
+注意:这个例子在StringBufferExam文件中

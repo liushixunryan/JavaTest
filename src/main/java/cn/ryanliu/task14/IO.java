@@ -14,6 +14,7 @@ public class IO {
             int length;
             while ((length=input.read(data)) !=-1){     //读出数据
                 output.write(data,0,length);
+                
             }
         }
     }

@@ -14,9 +14,8 @@ public class IO {
             int length;
             while ((length=input.read(data)) !=-1){     //读出数据
                 output.write(data,0,length);
-                
+
             }
         }
     }
 }
-//这是一个将某个文档读入并另存为另一个文档,则可以这么使用

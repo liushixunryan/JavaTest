@@ -2,7 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1aa7a38c-61d1-457a-905c-3fd16368d964" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/ryanliu/task14/IO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/ryanliu/task14/IO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/ryanliu/task14/Copy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task10/ArrayBank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task10/ArrayBank2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task11/StringBufferExam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task11/StringRev.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task11/StringRev2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task12/CalculateException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task13/CEO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task13/CFO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task13/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task13/ExceptionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task13/Manager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task2/Welcome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task2/WelcomeGUI$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task2/WelcomeGUI$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task2/WelcomeGUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task3/ComputrArea.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task3/TriangleArea.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task4/ComputerPriceIf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task4/ComputerPriceSwitch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task5/AddWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task5/Add_Do_while.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task5/BuySapling.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task5/BuySaplingExtend.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task6/Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task6/Swap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task7/Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task7/PetText.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task8/Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task8/Petson.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task9/USB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task9/USBImpl.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -16,16 +48,17 @@
     <session id="-2075884567">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.36" value="2" />
           <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.38" value="5" />
+          <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.46" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -33,7 +66,7 @@
           <entry key="StringBuffer类的常用方法" value="1" />
           <entry key="String类的常用方法" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="45" />
+          <entry key="java" value="46" />
           <entry key="png" value="1" />
           <entry key="集合的应用" value="2" />
         </counts>
@@ -42,7 +75,7 @@
         <counts>
           <entry key="IDEA_MODULE" value="1" />
           <entry key="Image" value="1" />
-          <entry key="JAVA" value="44" />
+          <entry key="JAVA" value="45" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
@@ -51,13 +84,13 @@
           <entry key="StringBuffer类的常用方法" value="418" />
           <entry key="String类的常用方法" value="2098" />
           <entry key="dummy" value="1" />
-          <entry key="java" value="10028" />
+          <entry key="java" value="10059" />
           <entry key="集合的应用" value="1205" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="9959" />
+          <entry key="JAVA" value="9990" />
           <entry key="PLAIN_TEXT" value="3791" />
         </counts>
       </usages-collector>
@@ -86,7 +119,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/cn/ryanliu/task10/集合的应用">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
+            <state relative-caret-position="297">
               <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
             </state>
           </provider>
@@ -97,11 +130,23 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/cn/ryanliu/task14/IO.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="567">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/ryanliu/task14/Copy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -196,6 +241,7 @@
         <option value="$PROJECT_DIR$/src/main/java/cn/ryanliu/task13/Employee.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/ryanliu/task13/ExceptionTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/ryanliu/task14/IO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/ryanliu/task14/Copy.java" />
       </list>
     </option>
   </component>
@@ -265,14 +311,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547870229072" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547966535061" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -402,18 +448,19 @@
       <workItem from="1547440841630" duration="6023000" />
       <workItem from="1547461280862" duration="1600000" />
       <workItem from="1547700579377" duration="8721000" />
-      <workItem from="1547866033468" duration="2466000" />
+      <workItem from="1547866033468" duration="2584000" />
+      <workItem from="1547966073475" duration="370000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55457000" />
+    <option name="totallyTimeSpent" value="55945000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2835821" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2867804" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -704,6 +751,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/ryanliu/task10/集合的应用">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/ryanliu/task10/集合接口层次框架图.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/ryanliu/task13/CFO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -729,20 +786,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/ryanliu/task10/集合的应用">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/ryanliu/task10/集合接口层次框架图.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/ryanliu/task14/IO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="567">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/ryanliu/task14/Copy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

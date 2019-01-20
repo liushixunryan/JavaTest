@@ -2,39 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1aa7a38c-61d1-457a-905c-3fd16368d964" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/ryanliu/task14/Copy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task10/ArrayBank.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task10/ArrayBank2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task11/StringBufferExam.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task11/StringRev.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task11/StringRev2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task12/CalculateException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task13/CEO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task13/CFO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task13/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task13/ExceptionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task13/Manager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task2/Welcome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task2/WelcomeGUI$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task2/WelcomeGUI$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task2/WelcomeGUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task3/ComputrArea.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task3/TriangleArea.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task4/ComputerPriceIf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task4/ComputerPriceSwitch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task5/AddWhile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task5/Add_Do_while.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task5/BuySapling.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task5/BuySaplingExtend.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task6/Pet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task6/Swap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task7/Pet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task7/PetText.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task8/Pet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task8/Petson.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task9/USB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/ryanliu/task9/USBImpl.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/ryanliu/task14/Download.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -66,7 +34,7 @@
           <entry key="StringBuffer类的常用方法" value="1" />
           <entry key="String类的常用方法" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="46" />
+          <entry key="java" value="47" />
           <entry key="png" value="1" />
           <entry key="集合的应用" value="2" />
         </counts>
@@ -75,7 +43,7 @@
         <counts>
           <entry key="IDEA_MODULE" value="1" />
           <entry key="Image" value="1" />
-          <entry key="JAVA" value="45" />
+          <entry key="JAVA" value="46" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
@@ -84,13 +52,13 @@
           <entry key="StringBuffer类的常用方法" value="418" />
           <entry key="String类的常用方法" value="2098" />
           <entry key="dummy" value="1" />
-          <entry key="java" value="10059" />
+          <entry key="java" value="10213" />
           <entry key="集合的应用" value="1205" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="9990" />
+          <entry key="JAVA" value="10144" />
           <entry key="PLAIN_TEXT" value="3791" />
         </counts>
       </usages-collector>
@@ -142,11 +110,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/cn/ryanliu/task14/Copy.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/ryanliu/task14/Download.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -242,6 +222,7 @@
         <option value="$PROJECT_DIR$/src/main/java/cn/ryanliu/task13/ExceptionTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/ryanliu/task14/IO.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/ryanliu/task14/Copy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/ryanliu/task14/Download.java" />
       </list>
     </option>
   </component>
@@ -318,7 +299,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547966535061" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547966870756" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -449,12 +430,12 @@
       <workItem from="1547461280862" duration="1600000" />
       <workItem from="1547700579377" duration="8721000" />
       <workItem from="1547866033468" duration="2584000" />
-      <workItem from="1547966073475" duration="370000" />
+      <workItem from="1547966073475" duration="1125000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55945000" />
+    <option name="totallyTimeSpent" value="56700000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -799,7 +780,17 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/ryanliu/task14/Copy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/ryanliu/task14/Download.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
